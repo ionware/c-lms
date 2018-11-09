@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/library_management.dir/main.c.o  -o library_management 

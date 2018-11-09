@@ -1,0 +1,3 @@
+/home/ionware/Desktop/class-tasks/library-management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ionware/Desktop/class-tasks/library-management/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ionware/Desktop/class-tasks/library-management/cmake-build-debug/CMakeFiles/library_management.dir
