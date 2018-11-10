@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/ionware/Desktop/class-tasks/library-management/main.c" "/home/ionware/Desktop/class-tasks/library-management/cmake-build-debug/CMakeFiles/library_management.dir/main.c.o"
+  "/home/ionware/Desktop/class-task/library-management-system/main.c" "/home/ionware/Desktop/class-task/library-management-system/cmake-build-debug/CMakeFiles/library_management.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

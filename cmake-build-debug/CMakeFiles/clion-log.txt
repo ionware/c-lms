@@ -1,4 +1,4 @@
-/home/ionware/ide/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ionware/Desktop/class-tasks/library-management
+/home/ionware/ide/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ionware/Desktop/class-task/library-management-system
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/ionware/Desktop/class-tasks/library-management/cmake-build-debug
+-- Build files have been written to: /home/ionware/Desktop/class-task/library-management-system/cmake-build-debug

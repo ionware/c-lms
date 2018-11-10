@@ -3,4 +3,4 @@ project(library_management C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(library_management main.c lmsauth.h printhelper.h)
+add_executable(library_management main.c lmsauth.h printhelper.h kernel.h goodbye.h)

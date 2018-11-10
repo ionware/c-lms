@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="library_management"/>
+		<Option title="library_management_system"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;"/>
@@ -78,12 +78,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/goodbye.h">
-			<Option target="library_management"/>
-		</Unit>
-		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/kernel.h">
-			<Option target="library_management"/>
-		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/lmsauth.h">
 			<Option target="library_management"/>
 		</Unit>

@@ -6,7 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/home/ionware/Desktop/class-tasks/library-management/main.c
+/home/ionware/Desktop/class-task/library-management-system/goodbye.h
+
+/home/ionware/Desktop/class-task/library-management-system/kernel.h
+stdbool.h
+-
+stdlib.h
+-
 stdio.h
+-
+printhelper.h
+/home/ionware/Desktop/class-task/library-management-system/printhelper.h
+lmsauth.h
+/home/ionware/Desktop/class-task/library-management-system/lmsauth.h
+goodbye.h
+/home/ionware/Desktop/class-task/library-management-system/goodbye.h
+
+/home/ionware/Desktop/class-task/library-management-system/lmsauth.h
+
+/home/ionware/Desktop/class-task/library-management-system/main.c
+kernel.h
+/home/ionware/Desktop/class-task/library-management-system/kernel.h
+
+/home/ionware/Desktop/class-task/library-management-system/printhelper.h
+stdio.h
+-
+string.h
 -
 
