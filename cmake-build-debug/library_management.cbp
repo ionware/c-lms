@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/cmake-build-debug/addbook.h">
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/addbook.h">
 			<Option target="library_management"/>
 		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/goodbye.h">

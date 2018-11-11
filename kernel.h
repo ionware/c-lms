@@ -6,6 +6,9 @@
 #include "printhelper.h"
 #include "lmsauth.h"
 #include "goodbye.h"
+#include "mainmenu.h"
+#include "addbook.h"
+
 extern int request;
 
 void Kernel(int request) {
@@ -16,6 +19,12 @@ void Kernel(int request) {
             break;
         case 1:
             login();
+            break;
+        case 2:
+            mainMenu();
+            break;
+        case 3:
+            addBook();
             break;
 
         default:

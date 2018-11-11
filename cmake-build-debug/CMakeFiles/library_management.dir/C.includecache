@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/home/ionware/Desktop/class-task/library-management-system/addbook.h
+
 /home/ionware/Desktop/class-task/library-management-system/goodbye.h
 
 /home/ionware/Desktop/class-task/library-management-system/kernel.h
@@ -23,6 +25,8 @@ goodbye.h
 /home/ionware/Desktop/class-task/library-management-system/goodbye.h
 mainmenu.h
 /home/ionware/Desktop/class-task/library-management-system/mainmenu.h
+addbook.h
+/home/ionware/Desktop/class-task/library-management-system/addbook.h
 
 /home/ionware/Desktop/class-task/library-management-system/lmsauth.h
 
