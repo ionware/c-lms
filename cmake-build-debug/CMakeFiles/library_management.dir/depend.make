@@ -5,5 +5,6 @@ CMakeFiles/library_management.dir/main.c.o: ../goodbye.h
 CMakeFiles/library_management.dir/main.c.o: ../kernel.h
 CMakeFiles/library_management.dir/main.c.o: ../lmsauth.h
 CMakeFiles/library_management.dir/main.c.o: ../main.c
+CMakeFiles/library_management.dir/main.c.o: ../mainmenu.h
 CMakeFiles/library_management.dir/main.c.o: ../printhelper.h
 

@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/cmake-build-debug/addbook.h">
+			<Option target="library_management"/>
+		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/goodbye.h">
 			<Option target="library_management"/>
 		</Unit>
@@ -88,6 +91,9 @@
 			<Option target="library_management"/>
 		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/main.c">
+			<Option target="library_management"/>
+		</Unit>
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/mainmenu.h">
 			<Option target="library_management"/>
 		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/printhelper.h">

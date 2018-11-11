@@ -21,12 +21,16 @@ lmsauth.h
 /home/ionware/Desktop/class-task/library-management-system/lmsauth.h
 goodbye.h
 /home/ionware/Desktop/class-task/library-management-system/goodbye.h
+mainmenu.h
+/home/ionware/Desktop/class-task/library-management-system/mainmenu.h
 
 /home/ionware/Desktop/class-task/library-management-system/lmsauth.h
 
 /home/ionware/Desktop/class-task/library-management-system/main.c
 kernel.h
 /home/ionware/Desktop/class-task/library-management-system/kernel.h
+
+/home/ionware/Desktop/class-task/library-management-system/mainmenu.h
 
 /home/ionware/Desktop/class-task/library-management-system/printhelper.h
 stdio.h
