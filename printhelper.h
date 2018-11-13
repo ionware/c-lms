@@ -11,10 +11,12 @@ void printLines()
         printf("=");
     }
     printf("\n");
+    fflush(stdin);
 }
 
 void clrconsole() {
     system("clear");
+    fflush(stdin);
 }
 
 #endif //LIBRARY_MANAGEMENT_PRINTHELPER_H

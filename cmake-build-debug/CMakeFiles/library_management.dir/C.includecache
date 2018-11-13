@@ -8,6 +8,8 @@
 
 /home/ionware/Desktop/class-task/library-management-system/addbook.h
 
+/home/ionware/Desktop/class-task/library-management-system/department-add.h
+
 /home/ionware/Desktop/class-task/library-management-system/goodbye.h
 
 /home/ionware/Desktop/class-task/library-management-system/kernel.h
@@ -16,6 +18,8 @@ stdbool.h
 stdlib.h
 -
 stdio.h
+-
+unistd.h
 -
 printhelper.h
 /home/ionware/Desktop/class-task/library-management-system/printhelper.h
@@ -27,6 +31,12 @@ mainmenu.h
 /home/ionware/Desktop/class-task/library-management-system/mainmenu.h
 addbook.h
 /home/ionware/Desktop/class-task/library-management-system/addbook.h
+department-add.h
+/home/ionware/Desktop/class-task/library-management-system/department-add.h
+shelf.h
+/home/ionware/Desktop/class-task/library-management-system/shelf.h
+show-books.h
+/home/ionware/Desktop/class-task/library-management-system/show-books.h
 
 /home/ionware/Desktop/class-task/library-management-system/lmsauth.h
 
@@ -41,4 +51,8 @@ stdio.h
 -
 string.h
 -
+
+/home/ionware/Desktop/class-task/library-management-system/shelf.h
+
+/home/ionware/Desktop/class-task/library-management-system/show-books.h
 

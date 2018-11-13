@@ -81,6 +81,12 @@
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/addbook.h">
 			<Option target="library_management"/>
 		</Unit>
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/book.h">
+			<Option target="library_management"/>
+		</Unit>
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/department-add.h">
+			<Option target="library_management"/>
+		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/goodbye.h">
 			<Option target="library_management"/>
 		</Unit>
@@ -97,6 +103,12 @@
 			<Option target="library_management"/>
 		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/printhelper.h">
+			<Option target="library_management"/>
+		</Unit>
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/shelf.h">
+			<Option target="library_management"/>
+		</Unit>
+		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/show-books.h">
 			<Option target="library_management"/>
 		</Unit>
 		<Unit filename="/home/ionware/Desktop/class-task/library-management-system/CMakeLists.txt">

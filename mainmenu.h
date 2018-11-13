@@ -1,17 +1,14 @@
-//
-// Created by ionware on 11/11/18.
-//
-
 #ifndef LIBRARY_MANAGEMENT_MAINMENU_H
 #define LIBRARY_MANAGEMENT_MAINMENU_H
 extern int request;
 int selection;
+
 void mainMenu() {
     printLines();
     printf("\t\tMain Menu\n\n");
     printf("[1] Add Book\t\t\t[2] Delete Book\n\n");
-    printf("[3] Select Book\t\t\t[4] Book Request\n\n");
-    printf("[5] Return Book\t\t\t[2] Exit\n\n");
+    printf("[3] Show Book\t\t\t[4] Book Request\n\n");
+    printf("[5] Return Book\t\t\t[0] Exit\n\n");
     printLines();
     printf("Enter corresponding selection: ");
     scanf("%d", &selection);
