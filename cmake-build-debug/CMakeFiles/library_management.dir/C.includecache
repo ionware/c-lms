@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/ionware/Desktop/class-task/library-management-system/addbook.h
+/home/ionware/Desktop/class-tasks/library-management/addbook.h
 
-/home/ionware/Desktop/class-task/library-management-system/department-add.h
+/home/ionware/Desktop/class-tasks/library-management/delete-book.h
+shelf.h
+/home/ionware/Desktop/class-tasks/library-management/shelf.h
 
-/home/ionware/Desktop/class-task/library-management-system/goodbye.h
+/home/ionware/Desktop/class-tasks/library-management/department-add.h
 
-/home/ionware/Desktop/class-task/library-management-system/kernel.h
+/home/ionware/Desktop/class-tasks/library-management/goodbye.h
+
+/home/ionware/Desktop/class-tasks/library-management/kernel.h
 stdbool.h
 -
 stdlib.h
@@ -22,37 +26,39 @@ stdio.h
 unistd.h
 -
 printhelper.h
-/home/ionware/Desktop/class-task/library-management-system/printhelper.h
+/home/ionware/Desktop/class-tasks/library-management/printhelper.h
 lmsauth.h
-/home/ionware/Desktop/class-task/library-management-system/lmsauth.h
+/home/ionware/Desktop/class-tasks/library-management/lmsauth.h
 goodbye.h
-/home/ionware/Desktop/class-task/library-management-system/goodbye.h
+/home/ionware/Desktop/class-tasks/library-management/goodbye.h
 mainmenu.h
-/home/ionware/Desktop/class-task/library-management-system/mainmenu.h
+/home/ionware/Desktop/class-tasks/library-management/mainmenu.h
 addbook.h
-/home/ionware/Desktop/class-task/library-management-system/addbook.h
+/home/ionware/Desktop/class-tasks/library-management/addbook.h
 department-add.h
-/home/ionware/Desktop/class-task/library-management-system/department-add.h
+/home/ionware/Desktop/class-tasks/library-management/department-add.h
 shelf.h
-/home/ionware/Desktop/class-task/library-management-system/shelf.h
+/home/ionware/Desktop/class-tasks/library-management/shelf.h
 show-books.h
-/home/ionware/Desktop/class-task/library-management-system/show-books.h
+/home/ionware/Desktop/class-tasks/library-management/show-books.h
+delete-book.h
+/home/ionware/Desktop/class-tasks/library-management/delete-book.h
 
-/home/ionware/Desktop/class-task/library-management-system/lmsauth.h
+/home/ionware/Desktop/class-tasks/library-management/lmsauth.h
 
-/home/ionware/Desktop/class-task/library-management-system/main.c
+/home/ionware/Desktop/class-tasks/library-management/main.c
 kernel.h
-/home/ionware/Desktop/class-task/library-management-system/kernel.h
+/home/ionware/Desktop/class-tasks/library-management/kernel.h
 
-/home/ionware/Desktop/class-task/library-management-system/mainmenu.h
+/home/ionware/Desktop/class-tasks/library-management/mainmenu.h
 
-/home/ionware/Desktop/class-task/library-management-system/printhelper.h
+/home/ionware/Desktop/class-tasks/library-management/printhelper.h
 stdio.h
 -
 string.h
 -
 
-/home/ionware/Desktop/class-task/library-management-system/shelf.h
+/home/ionware/Desktop/class-tasks/library-management/shelf.h
 
-/home/ionware/Desktop/class-task/library-management-system/show-books.h
+/home/ionware/Desktop/class-tasks/library-management/show-books.h
 

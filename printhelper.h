@@ -19,4 +19,18 @@ void clrconsole() {
     fflush(stdin);
 }
 
+void printDots(int amount) {
+    for (int j = 0; j <= amount; j++) {
+        printf("-");
+    }
+    printf("\n");
+}
+
+void printTableHeader() {
+    printDots(90);
+    printf("Book ID\t\t\tBook Name\t\t\tYear Published\n");
+    printDots(90);
+}
+
+
 #endif //LIBRARY_MANAGEMENT_PRINTHELPER_H

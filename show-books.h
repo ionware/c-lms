@@ -4,19 +4,6 @@
 extern struct shelves library[3];
 extern int request;
 
-void printDots(int amount) {
-    for (int j = 0; j <= amount; j++) {
-        printf("-");
-    }
-    printf("\n");
-}
-
-void printTableHeader() {
-    printDots(90);
-    printf("Book ID\t\t\tBook Name\t\t\tYear Published\n");
-    printDots(90);
-}
-
 void shelfLookUp(char dept[50], int count, int id) {
     printDots(90);
     printf("\t\tTotal Books on %s Shelf: %d\n", dept, count);

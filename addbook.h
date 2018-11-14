@@ -6,7 +6,7 @@ void addBook() {
     int selection;
     printLines();
     printf("\t\tSelect Faculty to categorize Book\n\n");
-    printf(" [1] Engineering\n [2] ICT\n [3] Pure and Applied Sciences\n");
+    printf(" [1] ICT\n [2] Engineering\n [3] Pure and Applied Sciences\n");
     printf(" [4] Education\n [5] Agriculture\n [6] Humanities\n");
     printf(" [0] Return to Main Menu\n");
     printLines();

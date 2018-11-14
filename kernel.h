@@ -12,6 +12,7 @@
 #include "department-add.h"
 #include "shelf.h"
 #include "show-books.h"
+#include "delete-book.h"
 
 extern int request;
 extern int department_id;
@@ -33,10 +34,12 @@ void Kernel(int request) {
             // Adding of book - Faculty selection
             addBook();
             break;
+
         case 31:
             // Adding of Book - Department selection
             addBookForDepartment();
             break;
+
         case 311:
         case 312:
         case 313:
@@ -44,10 +47,21 @@ void Kernel(int request) {
             break;
 
         case 4:
-            //delete book;
+            deleteBookForDepartment();
             break;
+
+        case 411:
+        case 412:
+        case 413:
+            requestBookId();
+            break;
+
         case 5:
             showBook();
+            break;
+
+        case 6:
+            // Book Request
             break;
         default:
             Kernel(0);

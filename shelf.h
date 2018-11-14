@@ -44,15 +44,6 @@ struct shelves {
 struct shelves library[3];
 
 void insertBook() {
-//    library[0].department[0].id = 1;
-//    library[0].department[0].title = "Learning HTML";
-//    //library[department_id].department[0].author = "Sarah Udoh";
-//    library[0].department[0].year = 2009;
-//    library[0].department[1].id = 2;
-//    * library[0].department[1].title = "Assembly Language x86";
-//    //library[department_id].department[0].author = "Sarah Udoh";
-//    library[0].department[2].year = 2017;
-
     char title[255], *pos;
     int i, bookYear;
     printLines();
@@ -64,7 +55,6 @@ void insertBook() {
             printf("Enter the name of the Book: ");
             getchar();
             fgets(name, 255, stdin);
-            //strncpy(library[department_id].department[i].title,  pos, strlen(pos) - 1);
             strcpy(library[department_id].department[i].title, removeWhiteSpace(name));
             printf("The year of Publishing: \n");
             scanf("%d", &bookYear);
@@ -74,9 +64,27 @@ void insertBook() {
             break;
         }
     }
-    printf("Book has been Added with an ID of %d\n", i);
+    printf("Book has been Added with an ID of %d\n", i + 1);
     printLines();
     sleep(3);
     request = 31;
+}
+
+void removeBook(int id) {
+    int bookId = id;
+    if (library[department_id].department[bookId].id) {
+        printLines();
+        library[department_id].department[bookId].id = 0;
+        printf("Book has been deleted successfully.\n");
+        printLines();
+        sleep(3);
+        request = 4;
+        return;
+    }
+    printLines();
+    printf("The Book with the ID %d was not found on the Shelf.\n", id);
+    printLines();
+    sleep(3);
+    request = 4;
 }
 #endif //LIBRARY_MANAGEMENT_SHELF_H
